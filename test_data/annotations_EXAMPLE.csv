@@ -1,0 +1,6 @@
+frame,label,position,reference_distance_m
+0,none,,
+30,person,center,2.0
+60,person,left,3.0
+60,chair,right,
+90,none,,

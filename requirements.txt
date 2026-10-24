@@ -1,0 +1,5 @@
+opencv-python>=4.8
+numpy>=1.23
+psutil>=5.9
+pyttsx3>=2.90
+pywin32>=306; sys_platform == "win32"

@@ -1,0 +1,3 @@
+timestamp,config_name,source,frames_processed,warmup_frames_excluded,avg_latency_ms,max_latency_ms,avg_fps,wall_fps,peak_ram_mb,detections_total,alerts_generated,tp,fp,fn,detection_rate_pct,precision_pct,distance_samples,distance_mae_m,notes
+2026-10-24T16:22:21,gui-session,0,895,0,28.914,107.793,34.585,14.973,193.500,2142,41,,,,,,,,live GUI session (no ground-truth evaluation)
+2026-10-24T16:29:16,gui-session,0,198,0,29.700,107.448,33.670,15.006,185.059,324,10,,,,,,,,live GUI session (no ground-truth evaluation)
