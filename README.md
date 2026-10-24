@@ -1,4 +1,4 @@
-# VisionPath (experimental prototype)
+# VisionPath
 
 OpenCV-based real-time computer vision assistance prototype for blind and visually impaired users.
 Python + OpenCV only: local MobileNet-SSD detection through `cv2.dnn`, spoken alerts, left/center/right
