@@ -1,0 +1,16 @@
+Bicycle
+Bird
+Boat
+Bottle
+Bus
+Car
+Cat
+Chair
+Dining table
+Dog
+Motorcycle
+Person
+Potted plant
+Sofa
+Train
+TV/monitor

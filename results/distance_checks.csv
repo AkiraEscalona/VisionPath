@@ -1,0 +1,4 @@
+timestamp,label,reference_m,estimated_m,abs_error_m
+2026-10-27T21:08:43,person,5.00,3.31,1.69
+2026-10-28T01:06:32,person,1.22,1.84,0.62
+2026-10-28T11:27:28,person,0.50,6.36,5.86
